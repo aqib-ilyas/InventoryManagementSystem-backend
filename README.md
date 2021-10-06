@@ -17,5 +17,5 @@ required in all big applications. It covers following concepts:
 5. Models and Views
 6. Permissions and Authorization
 
-
+### The frontend of this app is designed using React and is also uploaded on GitHub.
 #### If you find any bug in the app, please resolve and create a pull request.
